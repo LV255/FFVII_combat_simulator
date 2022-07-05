@@ -3,7 +3,7 @@
 - pygame version (FFVII_pygame_version.py)
 
 ## About
-- I created a python terminal that is similar to a Final Fantasy VII turn based combat system.
+- I created a python terminal game that is similar to a Final Fantasy VII turn based combat system.
 - The player can play against the computer or against another person.
 
 ## What I learned

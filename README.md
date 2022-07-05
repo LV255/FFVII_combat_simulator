@@ -1,5 +1,6 @@
 # FFVII_combat_simulator
-- python terminal game (and pygame version)
+- python terminal game (FFVII_combat_simulator.py)
+- pygame version (FFVII_pygame_version.py)
 
 ## About
 - I created a python terminal that is similar to a Final Fantasy VII turn based combat system.

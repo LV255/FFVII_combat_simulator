@@ -1,4 +1,4 @@
-## Project Name: FFVII_combat_simulator
+## Project Name: FFVII combat simulator
 Final Fantasy style python terminal game (FFVII_combat_simulator.py) and pygame edition (FFVII_pygame_version.py).
 
 ## Motivation

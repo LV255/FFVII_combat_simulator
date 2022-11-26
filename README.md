@@ -1,13 +1,20 @@
-# FFVII_combat_simulator
-- python terminal game (FFVII_combat_simulator.py)
-- pygame version (FFVII_pygame_version.py)
+## Project Name: FFVII_combat_simulator
+Final Fantasy style python terminal game (FFVII_combat_simulator.py) and pygame edition (FFVII_pygame_version.py).
 
-## About
-- I created a python terminal game that is similar to a Final Fantasy VII turn based combat system.
-- The player can play against the computer or against another person.
+## Motivation
+I wanted to create a program that used classes extensively.
 
-## What I learned
-- I learnt a lot about using classes. Each character has unique abilities, strengths and weaknesses.
+## Tech used
+- Python
+
+## Project features
+- computer AI opponent
+- players progress through different opponents
+- player can play against computer or another palyer
+- Each character has unique abilities, strengths and weaknesses.
+
+## Lessons learnt
+- I learnt a lot about using classes. 
 
 ## Pygame version
 - I have created a limited version for pygame
